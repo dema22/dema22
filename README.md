@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working as a Backend Developer using Java and Springboot. 
-- 🌱 I’m currently learning about the Ethereuem blockchain and how to build smart contracts with Solidity.
 - 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/felipe-demaria-407314172/)
