@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working as a Backend Developer using Java and Springboot. 
-- 📫 How to reach me: [LINKEDIN](https://www.linkedin.com/in/felipe-demaria-407314172/)
+
