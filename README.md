@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working as a Backend Developer using Java and Springboot. 
+- 🔭 I’m currently working as a Software Developer using Springboot, Express, and React technologies.
 
